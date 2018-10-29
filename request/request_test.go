@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	jwt "github.com/vijay1811/jwt-go/v3"
-	test "github.com/vijay1811/jwt-go/v3/test"
+	jwt "github.com/vijay1811/jwt-go"
+	test "github.com/vijay1811/jwt-go"
 )
 
 var requestTestData = []struct {
